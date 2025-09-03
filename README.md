@@ -6,8 +6,6 @@ A fun and interactive number guessing game built with HTML, CSS, and JavaScript.
 
 - Responsive design using CSS Grid and Flexbox
 - Dynamic UI updates with JavaScript
-- Glassmorphism styling for modern visual appeal
-- Theme toggle (light/dark mode)
 - Real-time feedback on guesses
 
 ## How to Play
